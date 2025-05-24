@@ -1,0 +1,14 @@
+
+[
+  {
+    "id": "template",
+    "title": "Template Project",
+    "description": "This is a template project. You can delete it and add your own projects.",
+    "status": "planning",
+    "technologies": ["example-tech-1", "example-tech-2"],
+    "githubUrl": "https://github.com/HumayunK01",
+    "liveUrl": "https://devhumayun.vercel.app/",
+    "startDate": "2024-01-01",
+    "lastUpdated": "2024-01-01"
+  }
+]

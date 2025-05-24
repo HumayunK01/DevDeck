@@ -1,0 +1,12 @@
+
+[
+  {
+    "id": "template",
+    "title": "Template Code Snippet",
+    "code": "// This is a template code snippet\n// You can delete it and add your own snippets\n\nfunction example() {\n  console.log('Hello, Humayun!');\n  return 'This is an example snippet';\n}\n\n// Use this template to store your useful code snippets",
+    "language": "javascript",
+    "tags": ["template", "example", "getting-started"],
+    "description": "A template snippet showing how to structure your code snippets. Feel free to delete this and add your own.",
+    "createdAt": "2024-01-01"
+  }
+]
