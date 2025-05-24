@@ -59,7 +59,7 @@ It helps developers organize code snippets, track learning progress, and manage 
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/YourUsername/DevDeck.git
+   git clone https://github.com/HumayunK01/DevDeck.git
    ```
 
 2. **Navigate to the project directory**
